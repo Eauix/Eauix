@@ -1,5 +1,5 @@
-Uhhmm... i'm just a casual gamer who likes to create levels
-Some level editors require scripting, so i was forced to learn the basics of logic
+Uhhmm... i'm just a casual gamer who likes to create levels \n
+Some level editors require scripting, so i was forced to learn the basics of logic \n
 and here I am, planning to make a Super Tux addon :v
 
 <!---
