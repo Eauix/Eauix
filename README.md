@@ -1,6 +1,6 @@
-Uhhmm... i'm just a casual gamer who likes to create levels \n
-Some level editors require scripting, so i was forced to learn the basics of logic \n
-and here I am, planning to make a Super Tux addon :v
+Uhhmm... i'm just a casual gamer who likes to create levels.
+Some level editors require scripting, so i was forced to learn the basics of logic.
+And here I am, planning to make a Super Tux addon :v
 
 <!---
 Eauix/Eauix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
